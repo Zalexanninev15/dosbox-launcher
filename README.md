@@ -1,5 +1,5 @@
 # DOSBox Launcher
-Launcher for DOSBox by Zalexanninev15 for PDukeFree Project.
+Launcher for DOSBox by Zalexanninev15 for PDukeFree Project(https://rln.uz/ia9q).
 ### Build launcher:
 1) Install DevelNext (IDE)
 2) Download all contents of the source folder
