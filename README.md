@@ -12,6 +12,6 @@ Launcher for DOSBox by Zalexanninev15 for [PDukeFree Project](https://pdukefreep
 In the created folder with the launcher - [dbl]
 1) Copy the DOSBox folder in DOSBox
 2) Copy three games: 
-Duke Nukem 3D = [dbl]\DOSData\Profile1
-DOOM = [dbl]\DOSData\Profile1
-DOOM II = [dbl]\DOSData\Profile1
+* Duke Nukem 3D = [dbl]\DOSData\Profile1
+* DOOM = [dbl]\DOSData\Profile1
+* DOOM II = [dbl]\DOSData\Profile1
