@@ -1,5 +1,7 @@
 # DOSBox Launcher
 Launcher for DOSBox by Zalexanninev15 for [PDukeFree Project](https://pdukefreeproject.jimdofree.com).
+
+![ALT](https://i.imgur.com/k2B3uSD.png)
 ### Build launcher:
 1) Install [DevelNext (IDE)](https://github.com/jphp-group/develnext/releases)
 2) Download all contents of the source folder
