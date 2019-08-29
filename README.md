@@ -1,4 +1,5 @@
 # DOSBox Launcher
+### Further development of the launcher [here](https://github.com/Zalexanninev15/dosbox-launcher-next)
 Launcher for DOSBox by Zalexanninev15 for [PDukeFree Project](https://pdukefreeproject.jimdofree.com).
 
 ![ALT](https://i.imgur.com/k2B3uSD.png)
