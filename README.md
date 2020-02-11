@@ -1,9 +1,9 @@
 # DOSBox Launcher
-### Further development of the launcher [here](https://github.com/Zalexanninev15/dosbox-launcher-next)!
+## Further development of the launcher [here](https://github.com/Zalexanninev15/dosbox-launcher-next)!
 Launcher for DOSBox by Zalexanninev15 for [PDukeFree Project](https://pdukefreeproject.jimdofree.com).
 
 ![ALT](https://i.imgur.com/k2B3uSD.png)
-### Build launcher:
+## Build launcher
 1) Install [DevelNext (IDE)](https://github.com/jphp-group/develnext/releases)
 2) Download all contents of the source folder
 3) Copy the contents of the archive dosbox-l.zip on the way: C:\Users\%USERNAME%\DevelNextProjects\
@@ -11,7 +11,7 @@ Launcher for DOSBox by Zalexanninev15 for [PDukeFree Project](https://pdukefreep
 5) Copy the compiled EXE or JAR file to some folder
 6) Copy the contents of the archive dosbox-c.zip in this folder
 7) Launch the launcher
-#### Launcher settings:
+## Launcher settings:
 In the created folder with the launcher - [dbl]
 1) Copy the DOSBox folder in DOSBox
 2) Copy three games: 
